@@ -1,2 +1,2 @@
 # LearningTensorFlow
-learn how to user tensorflow to build deep learning model
+learn how to use tensorflow to build deep learning model
